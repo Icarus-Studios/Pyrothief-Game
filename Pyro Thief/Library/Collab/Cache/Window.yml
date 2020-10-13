@@ -14,10 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Graphics/teamlogo.png
-    - Assets/Graphics/teamlogo.png.meta
     - 
-    m_Values: 010101
+    m_Values: 01
   RevisionSummary: 
   ChangesSearchValue: 
   SelectedHistoryRevision: 
